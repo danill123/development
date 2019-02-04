@@ -1,0 +1,26 @@
+.titletron {
+  text-align: center;
+}
+
+.name {
+  margin-top: 130px;
+  margin-bottom: 130px;
+  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+}
+
+.content {
+  font-family: "Bodoni MT", Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
+  font-weight: normal;
+  font-size: 120%;
+}
+
+.profile_photo_pstn {
+  float: left;
+  margin-right: 4%;
+  margin-bottom: 1%;
+  margin-left: 6%;
+}
+
+.titlesz {
+  font-size: 200%;
+}
